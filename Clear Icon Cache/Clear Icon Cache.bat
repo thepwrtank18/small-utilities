@@ -1,4 +1,4 @@
-:: Everything after "&& rem" are comments
+rem Everything after "&& rem" or "rem" are comments
 
 @echo off
 goto CheckPerms
