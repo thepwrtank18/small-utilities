@@ -23,6 +23,4 @@ Program 1 v3 and Program 2 v2 is released. This goes in Pack 3.
 Basically, all items in the same release date (or a day or 2 after) are in "packs".
 
 ## Building
-This uses Bat to Exe Converter, you can download it here: https://bat-to-exe-converter-x64.en.softonic.com/download
-
-*Yes, it's from Softonic, but it's good since I use it.*
+This uses Bat to Exe Converter, you can download it [here](https://github.com/thepwrtank18/small-utilities/raw/master/Bat%20to%20Exe%20Converter%20(for%20building).exe).
