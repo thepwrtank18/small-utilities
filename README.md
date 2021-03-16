@@ -4,6 +4,9 @@ A bunch of small utilities I made.
 ### Clear Icon Cache
 Tired of your icons being blank paper? Here is your solution! Just run as admin, and you're good!
 
+### Reset Connection
+If you keep having to restart your computer because of "No internet, secured", you can fix that here. *Do not run this as admin unless you need to.*
+
 ### More
 More is coming soon™.
 
